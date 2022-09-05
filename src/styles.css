@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #eeeeee;
+}
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+.buttons {
+  margin: 0 auto;
+  text-align: start;
+}
+button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  margin: 0.2rem;
+  background-color: gray;
+  border: none;
+  text-align: start !important;
+}
+ul {
+  list-style-type: none;
+  width: 80%;
+  padding: 0;
+}
+li {
+  background-color: #fff;
+  margin: 1rem;
+  margin-left: 0rem;
+  padding: 0.5rem 0.5rem 2rem;
+  border-radius: 0.5rem;
+}
